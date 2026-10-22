@@ -1,0 +1,12 @@
+ops cli_ms=58
+OK app.globalFontMagnification = 100
+OK app.tabBarVisibility = "always"
+app.tabBarVisibility = "always"
+sidebar.hideAllDetails = false
+sidebar.showPorts = true
+ops visible_after_ms=335 (capture granularity ~)
+focus visible_after_ms=294 (capture granularity ~)
+ops visible_after_ms=338 (capture granularity ~)
+focus visible_after_ms=308 (capture granularity ~)
+present visible_after_ms=358 (capture granularity ~)
+focus visible_after_ms=300 (capture granularity ~)

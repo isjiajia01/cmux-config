@@ -1,0 +1,3 @@
+phase0-1 cat_seconds=1.017
+phase0-2 cat_seconds=1.043
+phase0-3 cat_seconds=0.961

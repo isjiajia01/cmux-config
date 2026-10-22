@@ -1,0 +1,3 @@
+baseline-1 cat_seconds=1.054
+baseline-2 cat_seconds=1.057
+baseline-3 cat_seconds=1.026
