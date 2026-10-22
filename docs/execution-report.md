@@ -1,5 +1,5 @@
 # cmux redesign: execution report (phases 0-4)
-cmux 0.65.2 (111). Window under test: the one hosting this agent (CG window 13508, 2738x1394 px). Evidence dir: /Users/zhangjiajia/.pi/agent/tmp/cmux-redesign/ (shots/, perf-*.txt, preset-timing.txt).
+cmux 0.65.2 (111). Window under test: the one hosting this agent (CG window 13508, 2738x1394 px). Evidence dir: ~/.pi/agent/tmp/cmux-redesign/ (shots/, perf-*.txt, preset-timing.txt).
 
 ## Final state (verified: `cmux config validate` OK, `cmux sidebar validate` OK)
 Diff vs original (`~/.config/cmux/cmux.json.bak-p0-20261022-100153`):
